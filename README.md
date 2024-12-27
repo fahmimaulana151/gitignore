@@ -1,0 +1,2 @@
+# gitignore
+latihan membuat GITIGNORE
